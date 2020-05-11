@@ -5,7 +5,7 @@ build. It uses the following parameters:
 
 * Source repository (default: https://github.com/verilator/verilator)
 * Source revision (default: master)
-* GCC version (4.8.5, 5.5.0, 6.5.0, 7.4.0, default: 7.4.0)
+* GCC version (9.3.0, default: 9.3.0)
 
 The container is published as `verilator/verilator-buildenv` on
 https://hub.docker.com/repository/docker/verilator/verilator-buildenv[docker hub].
